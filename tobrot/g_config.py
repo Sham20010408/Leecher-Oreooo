@@ -7,7 +7,7 @@ class Config(Config):
     API_HASH = "d1c1c9262bbae8f5eeb80ba47c9f3dff"
     OWNER_ID = 1079261681
     AUTH_CHANNEL = [-1001410465876]
-    DESTINATION_FOLDER = "TorrentLeech-Gdrive" #Name of your folder read readme(not id of the folder)
+    DESTINATION_FOLDER = "LEECHING" #Name of your folder read readme(not id of the folder)
     RCLONE_CONFIG = """type = drive 
     scope = drive
     root_folder_id =
